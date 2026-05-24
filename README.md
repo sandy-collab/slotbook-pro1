@@ -58,10 +58,10 @@ npm install
 cp .env.example .env
 
 # 3. Start development server
-npm start
+npm run dev
 ```
 
-App runs at **http://localhost:3000**
+App runs at **http://localhost:5173/**
 
 ---
 
