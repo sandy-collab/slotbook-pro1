@@ -168,4 +168,4 @@ Run the app and navigate to each route listed in the Screens table above.
 
 ## 📄 License
 
-Submitted for Willovate Hackathon. By submitting, contributor grants Willovate the right to review, modify, reuse, and integrate the code.
+Submitted for Horizon. By submitting, contributor grants Willovate the right to review, modify, reuse, and integrate the code.
